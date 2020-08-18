@@ -1,7 +1,5 @@
 #include <iostream>
 
-/* Created by MrR35cu3 */
-
 using namespace std;
 
 void logo() {
